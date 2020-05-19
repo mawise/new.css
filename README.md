@@ -1,3 +1,5 @@
+# This is a fork!  Documentation may not reflect changes I've made
+
 # new.css
 
 **[newcss.net](https://newcss.net) / [xz Discord](https://discord.gg/hhuuC4w)** / **[Twitter](https://twitter.com/example_dev)**
