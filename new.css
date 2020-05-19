@@ -15,7 +15,7 @@
 	--nc-alert: #fabab6;
 }
 
-@media (prefers-color-scheme: dark) {
+@media screen and (prefers-color-scheme: dark) {
 	:root {
 		--nc-tx-1: #ffffff;
 		--nc-tx-2: #eeeeee;
