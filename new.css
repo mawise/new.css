@@ -80,7 +80,7 @@ html,input,select,button {
 body {
 	/* Center body in page */
 	margin: 0 auto;
-	max-width: 750px;
+	max-width: 720px;
 	padding: 2rem;
 	border-radius: 6px;
 	overflow-x: hidden;
@@ -106,13 +106,13 @@ h1,h2,h3,h4,h5,h6 {
 	padding-top: .875rem;
 }
 
-h1,
-h2,
-h3 {
+h1 {
 	color: var(--nc-tx-1);
-	margin-bottom: 0.5rem;
+	margin-bottom: 0.8rem;
 }
 
+h2,
+h3,
 h4,
 h5,
 h6 {
