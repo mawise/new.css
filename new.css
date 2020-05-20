@@ -253,6 +253,16 @@ input[type="button"]:hover {
 	background: var(--nc-lk-2);
 }
 
+input[type="date"]
+input[type="time"]
+input[type="file"] {
+	font-size: 1rem;
+}
+
+input[type="file"] {
+	padding: 4px 12px; //smaller padding because the "Browse..." button is tall
+}
+
 code,
 pre,
 kbd,
